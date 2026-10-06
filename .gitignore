@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Run logs written by run.sh and the run_*.sh scripts
+logs/
+*.out
+
+# Data and results
+data/*.npy
+data/precomputed/
+results
