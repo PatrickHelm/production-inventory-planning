@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the paper below."
-type: article
-title: "Production-Inventory Planning in High-Tech Supply Chains: One Policy to Rule Them All?"
+type: software
+title: "Production-Inventory Planning in High-Tech Supply Chains: One Policy to Rule Them All? (code)"
 authors:
   - family-names: van Dijck
     given-names: Tjum
@@ -13,10 +13,27 @@ authors:
     given-names: Tarkan
   - family-names: van Jaarsveld
     given-names: Willem
-year: 2026
-month: 5
-date-published: 2026-05-07
-publisher:
-  name: SSRN
-doi: 10.2139/ssrn.6735067
-url: "https://ssrn.com/abstract=6735067"
+license: MIT
+repository-code: "https://github.com/PatrickHelm/production-inventory-planning"
+preferred-citation:
+  type: article
+  title: "Production-Inventory Planning in High-Tech Supply Chains: One Policy to Rule Them All?"
+  authors:
+    - family-names: van Dijck
+      given-names: Tjum
+    - family-names: Helm
+      given-names: Patrick
+    - family-names: Fleuren
+      given-names: Tijn
+    - family-names: Temizöz
+      given-names: Tarkan
+    - family-names: van Jaarsveld
+      given-names: Willem
+  journal: "SSRN Electronic Journal"
+  year: 2026
+  month: 5
+  date-published: 2026-05-07
+  publisher:
+    name: SSRN
+  doi: 10.2139/ssrn.6735067
+  url: "https://ssrn.com/abstract=6735067"
